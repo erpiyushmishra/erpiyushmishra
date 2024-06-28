@@ -2,9 +2,8 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning advance react
 - 💞️ I’m looking to collaborate on any project related to html, css, javaScript, react and python. Feel free to contact me on my email.
-- 📫 How to reach me email: piyush9211vaibhav@gmail.com
-- 😄 Pronouns: Him
-- ⚡ Fun fact: 
+- My email: piyush9211vaibhav@gmail.com
+  
 
 <!---
 erpiyushmishra/erpiyushmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
